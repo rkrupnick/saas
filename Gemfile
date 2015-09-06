@@ -17,6 +17,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '3.3.1'
 gem 'font-awesome-sass', '4.2.0'
 gem 'devise'
+gem 'stripe'
+gem 'figaro'
 
 group :development, :test do
   gem 'byebug'
