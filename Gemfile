@@ -19,6 +19,7 @@ gem 'font-awesome-sass', '4.2.0'
 gem 'devise'
 gem 'stripe'
 gem 'figaro'
+gem 'paperclip'
 
 group :development, :test do
   gem 'byebug'
